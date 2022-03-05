@@ -5,6 +5,7 @@ $(document).ready(function(){
       loop:true,
       margin:10,
       autoplay:true,
+      dotsContainer: '.dots-contaier',
       autoplayTimeout:6000,
       autoplayHoverPause:true
   });
